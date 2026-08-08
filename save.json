@@ -1,0 +1,115 @@
+{
+    "money": 4997,
+    "customers_served": 915,
+    "day_number": 5,
+    "daily_target": 180,
+    "burger_stock": 14,
+    "fries_stock": 645,
+    "drink_stock": 550,
+    "tray_burgers": 884,
+    "tray_fries": 31,
+    "tray_drinks": 485,
+    "music_volume": 0.1075,
+    "upgrades": {
+        "fast_grills": true,
+        "fast_fryers": true,
+        "fast_drinks": true,
+        "anti_burn": true
+    },
+    "wardrobe": {
+        "equipped": {
+            "Aprons": "Master Black Apron",
+            "Hats": "Black Beanie",
+            "Shirts": "Executive Dark Shirt"
+        },
+        "owned": [
+            "Standard White",
+            "Golden Apron",
+            "Master Black",
+            "Neon Visor",
+            "Cleaner Overalls",
+            "Flame Jacket",
+            "Diamond Tuxedo",
+            "Executive Suit",
+            "Frost Apron",
+            "Executive Dark Shirt",
+            "Black Beanie",
+            "Classic Chef Hat",
+            "Golden Crown Hat",
+            "Standard White Apron",
+            "Master Black Apron",
+            "Standard Chef Coat",
+            "Golden Vest"
+        ]
+    },
+    "grills": [
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        }
+    ],
+    "fryers": [
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        }
+    ],
+    "drink_unlocks": [
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        },
+        {
+            "unlocked": true,
+            "cleanliness": 100
+        }
+    ]
+}
