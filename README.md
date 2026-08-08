@@ -1,4 +1,4 @@
-# 👨‍🍳 New Chef Game
+# 👨‍🍳 New Chef
 
 A 2D cooking game bult using **Python and Pygame**. 
 
